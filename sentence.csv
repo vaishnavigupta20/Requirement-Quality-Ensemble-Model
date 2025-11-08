@@ -1,0 +1,701 @@
+requirement_text,quality_label
+The system should be efficient and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system must validate settings before reset their password.,Complete
+The module must display notifications but skip it under normal mode.,Inconsistent
+The software shall display error message when registration occurs.,Complete
+The system should be dynamic and easy to use.,Ambiguous
+The system shall allow users to export data within every hour.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The application must display notifications after system start.,Complete
+The system should be simple and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The system should be user-friendly and easy to use.,Ambiguous
+The user shall be able to log the user out from the dashboard.,Complete
+The platform shall generate user profile every 1 day.,Complete
+The system should be fast and easy to use.,Ambiguous
+The application must store logs after login.,Complete
+"The system shall perform send an email only if shutdown, otherwise always refresh the page.",Inconsistent
+The system should be efficient and easy to use.,Ambiguous
+The application should both reset their password and avoid reset their password.,Inconsistent
+The system should be modern and easy to use.,Ambiguous
+The application must log the user out after system start.,Complete
+The application must store logs after login.,Complete
+The system shall allow users to save the file within every hour.,Complete
+The system should be dynamic and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+"The software must log the user out unless network failure, but always store logs.",Inconsistent
+The software shall display transaction details when timeout occurs.,Complete
+The application must display notifications after registration.,Complete
+The system should be intuitive and easy to use.,Ambiguous
+The application must display notifications after timeout.,Complete
+The user shall be able to delete old records from the dashboard.,Complete
+"The software must log the user out unless shutdown, but always save the file.",Inconsistent
+The system should be efficient and easy to use.,Ambiguous
+"The system shall perform reset their password only if system start, otherwise always refresh the page.",Inconsistent
+The module must update the database but skip it under normal mode.,Inconsistent
+The application must log the user out after login.,Complete
+The system should be efficient and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The platform shall generate activity log every once per session.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The app shall record transaction details when error occurs happens.,Complete
+The user shall be able to save the file from the dashboard.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The application should both delete old records and avoid delete old records.,Inconsistent
+The system should be simple and easy to use.,Ambiguous
+The platform shall generate error message every every hour.,Complete
+The user shall be able to update the database from the dashboard.,Complete
+The platform shall generate user profile every once per session.,Complete
+The system shall log the user out but also shall not update the database.,Inconsistent
+"The software must reset their password unless timeout, but always refresh the page.",Inconsistent
+The platform should export data but ignore store logs in maintenance mode.,Inconsistent
+The system should be user-friendly and easy to use.,Ambiguous
+The module must display notifications but skip it under normal mode.,Inconsistent
+"The system shall perform track user activity only if login, otherwise always delete old records.",Inconsistent
+The platform should delete old records but ignore generate a report in maintenance mode.,Inconsistent
+The platform should update the database but ignore track user activity in maintenance mode.,Inconsistent
+The module must update the database but skip it under normal mode.,Inconsistent
+The system should be modern and easy to use.,Ambiguous
+The module must generate a report but skip it under normal mode.,Inconsistent
+The system should be reliable and easy to use.,Ambiguous
+The system must validate activity log before refresh the page.,Complete
+The module must save the file but skip it under normal mode.,Inconsistent
+The system should be attractive and easy to use.,Ambiguous
+The user shall be able to store logs from the dashboard.,Complete
+The platform should generate a report but ignore reset their password in maintenance mode.,Inconsistent
+The system should be responsive and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system must validate transaction details before display notifications.,Complete
+The user shall be able to save the file from the dashboard.,Complete
+The system should be efficient and easy to use.,Ambiguous
+The system must validate user profile before update the database.,Complete
+The application should both refresh the page and avoid refresh the page.,Inconsistent
+The platform shall generate data record every 1 day.,Complete
+The system must validate activity log before store logs.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The application must display notifications after timeout.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The application must reset their password after network failure.,Complete
+The system should be fast and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The app shall record transaction details when error occurs happens.,Complete
+The system shall reset their password but also shall not log the user out.,Inconsistent
+The application should both reset their password and avoid reset their password.,Inconsistent
+The system should be attractive and easy to use.,Ambiguous
+The module must generate a report but skip it under normal mode.,Inconsistent
+The application must send an email after error occurs.,Complete
+The user shall be able to generate a report from the dashboard.,Complete
+The system shall log the user out but also shall not display notifications.,Inconsistent
+The app shall record activity log when registration happens.,Complete
+"The system shall perform export data only if error occurs, otherwise always display notifications.",Inconsistent
+The platform should save the file but ignore refresh the page in maintenance mode.,Inconsistent
+The system should be user-friendly and easy to use.,Ambiguous
+The module must update the database but skip it under normal mode.,Inconsistent
+The system should be secure and easy to use.,Ambiguous
+The application should both track user activity and avoid track user activity.,Inconsistent
+The system must validate settings before log the user out.,Complete
+The platform should refresh the page but ignore refresh the page in maintenance mode.,Inconsistent
+The user shall be able to display notifications from the dashboard.,Complete
+The system should be secure and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The platform shall generate error message every 5 hours.,Complete
+The system should be secure and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The app shall record invoice when error occurs happens.,Complete
+The system must validate settings before save the file.,Complete
+The system should be simple and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+"The system shall perform update the database only if system start, otherwise always display notifications.",Inconsistent
+The software shall display data record when network failure occurs.,Complete
+The module must track user activity but skip it under normal mode.,Inconsistent
+The module must refresh the page but skip it under normal mode.,Inconsistent
+"The software must display notifications unless error occurs, but always send an email.",Inconsistent
+The system should be secure and easy to use.,Ambiguous
+The application must delete old records after timeout.,Complete
+The platform shall generate activity log every immediately.,Complete
+The application must display notifications after error occurs.,Complete
+The user shall be able to export data from the dashboard.,Complete
+The system should be dynamic and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system must validate data record before delete old records.,Complete
+The system should be attractive and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The application should both log the user out and avoid log the user out.,Inconsistent
+The system shall reset their password but also shall not track user activity.,Inconsistent
+The app shall record data record when error occurs happens.,Complete
+The platform should display notifications but ignore refresh the page in maintenance mode.,Inconsistent
+The module must display notifications but skip it under normal mode.,Inconsistent
+The system shall send an email but also shall not display notifications.,Inconsistent
+The system shall save the file but also shall not reset their password.,Inconsistent
+The user shall be able to log the user out from the dashboard.,Complete
+The platform should reset their password but ignore export data in maintenance mode.,Inconsistent
+The module must delete old records but skip it under normal mode.,Inconsistent
+The system should be responsive and easy to use.,Ambiguous
+The system shall generate a report but also shall not save the file.,Inconsistent
+The application must generate a report after error occurs.,Complete
+The platform shall generate data record every 2 minutes.,Complete
+The system should be responsive and easy to use.,Ambiguous
+The software shall display data record when login occurs.,Complete
+The platform should log the user out but ignore reset their password in maintenance mode.,Inconsistent
+The application must delete old records after shutdown.,Complete
+The platform shall generate invoice every 1 day.,Complete
+The system shall generate a report but also shall not refresh the page.,Inconsistent
+The module must display notifications but skip it under normal mode.,Inconsistent
+The system must validate invoice before save the file.,Complete
+The software shall display settings when system start occurs.,Complete
+The system should be fast and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system shall generate a report but also shall not export data.,Inconsistent
+The app shall record activity log when shutdown happens.,Complete
+The module must generate a report but skip it under normal mode.,Inconsistent
+The system should be intuitive and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+"The software must log the user out unless network failure, but always log the user out.",Inconsistent
+The system should be fast and easy to use.,Ambiguous
+The platform should delete old records but ignore reset their password in maintenance mode.,Inconsistent
+"The system shall perform save the file only if error occurs, otherwise always log the user out.",Inconsistent
+The platform shall generate activity log every immediately.,Complete
+The system should be intuitive and easy to use.,Ambiguous
+The app shall record activity log when network failure happens.,Complete
+The system shall save the file but also shall not update the database.,Inconsistent
+"The software must display notifications unless network failure, but always refresh the page.",Inconsistent
+The system shall track user activity but also shall not export data.,Inconsistent
+The system shall allow users to save the file within 10 seconds.,Complete
+"The software must display notifications unless system start, but always display notifications.",Inconsistent
+The system should be intuitive and easy to use.,Ambiguous
+The system shall display notifications but also shall not log the user out.,Inconsistent
+The application must reset their password after registration.,Complete
+The application should both export data and avoid export data.,Inconsistent
+The system shall allow users to reset their password within once per session.,Complete
+The system should be reliable and easy to use.,Ambiguous
+The platform shall generate settings every 2 minutes.,Complete
+The system should be modern and easy to use.,Ambiguous
+"The software must store logs unless error occurs, but always export data.",Inconsistent
+The system should be efficient and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The application should both export data and avoid export data.,Inconsistent
+The platform shall generate invoice every once per session.,Complete
+The software shall display invoice when error occurs occurs.,Complete
+The platform shall generate settings every every hour.,Complete
+The module must refresh the page but skip it under normal mode.,Inconsistent
+The system must validate data record before export data.,Complete
+The system should be secure and easy to use.,Ambiguous
+The user shall be able to refresh the page from the dashboard.,Complete
+The system should be reliable and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+"The software must display notifications unless network failure, but always reset their password.",Inconsistent
+The system shall display notifications but also shall not send an email.,Inconsistent
+The system should be dynamic and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The application must refresh the page after shutdown.,Complete
+The system should be fast and easy to use.,Ambiguous
+"The software must refresh the page unless registration, but always delete old records.",Inconsistent
+The app shall record user profile when network failure happens.,Complete
+The system must validate data record before track user activity.,Complete
+The platform should refresh the page but ignore track user activity in maintenance mode.,Inconsistent
+The platform should delete old records but ignore save the file in maintenance mode.,Inconsistent
+The system shall allow users to store logs within immediately.,Complete
+The system should be secure and easy to use.,Ambiguous
+The user shall be able to save the file from the dashboard.,Complete
+The system should be fast and easy to use.,Ambiguous
+The user shall be able to generate a report from the dashboard.,Complete
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system shall delete old records but also shall not log the user out.,Inconsistent
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system shall display notifications but also shall not delete old records.,Inconsistent
+The system must validate invoice before store logs.,Complete
+The platform should track user activity but ignore store logs in maintenance mode.,Inconsistent
+The platform shall generate transaction details every 2 minutes.,Complete
+The application should both log the user out and avoid log the user out.,Inconsistent
+The system should be intuitive and easy to use.,Ambiguous
+The application should both delete old records and avoid delete old records.,Inconsistent
+The platform should log the user out but ignore track user activity in maintenance mode.,Inconsistent
+The system should be simple and easy to use.,Ambiguous
+The software shall display invoice when timeout occurs.,Complete
+The system shall track user activity but also shall not delete old records.,Inconsistent
+The system should be secure and easy to use.,Ambiguous
+"The software must log the user out unless shutdown, but always delete old records.",Inconsistent
+The system should be simple and easy to use.,Ambiguous
+The platform should send an email but ignore send an email in maintenance mode.,Inconsistent
+The system should be powerful and easy to use.,Ambiguous
+The software shall display user profile when login occurs.,Complete
+The system should be simple and easy to use.,Ambiguous
+The application should both refresh the page and avoid refresh the page.,Inconsistent
+The application should both log the user out and avoid log the user out.,Inconsistent
+The system should be user-friendly and easy to use.,Ambiguous
+The platform shall generate activity log every 10 seconds.,Complete
+The application must store logs after error occurs.,Complete
+The application should both save the file and avoid save the file.,Inconsistent
+The software shall display invoice when timeout occurs.,Complete
+"The system shall perform generate a report only if system start, otherwise always display notifications.",Inconsistent
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The platform shall generate error message every 1 day.,Complete
+The system should be attractive and easy to use.,Ambiguous
+The application must reset their password after network failure.,Complete
+The application should both log the user out and avoid log the user out.,Inconsistent
+The system should be responsive and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system shall allow users to log the user out within every hour.,Complete
+The software shall display activity log when network failure occurs.,Complete
+The platform shall generate activity log every 5 hours.,Complete
+"The system shall perform log the user out only if registration, otherwise always refresh the page.",Inconsistent
+The system should be secure and easy to use.,Ambiguous
+"The software must display notifications unless registration, but always generate a report.",Inconsistent
+The system should be dynamic and easy to use.,Ambiguous
+The application should both save the file and avoid save the file.,Inconsistent
+The platform shall generate invoice every 2 minutes.,Complete
+The user shall be able to refresh the page from the dashboard.,Complete
+The module must reset their password but skip it under normal mode.,Inconsistent
+The user shall be able to update the database from the dashboard.,Complete
+The app shall record user profile when system start happens.,Complete
+The module must send an email but skip it under normal mode.,Inconsistent
+"The system shall perform delete old records only if network failure, otherwise always store logs.",Inconsistent
+The system shall send an email but also shall not store logs.,Inconsistent
+The system should be modern and easy to use.,Ambiguous
+The software shall display data record when error occurs occurs.,Complete
+The user shall be able to export data from the dashboard.,Complete
+The software shall display user profile when login occurs.,Complete
+The application should both export data and avoid export data.,Inconsistent
+The module must store logs but skip it under normal mode.,Inconsistent
+The software shall display settings when timeout occurs.,Complete
+"The system shall perform store logs only if registration, otherwise always track user activity.",Inconsistent
+The system should be dynamic and easy to use.,Ambiguous
+"The software must store logs unless shutdown, but always generate a report.",Inconsistent
+The system should be responsive and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The module must update the database but skip it under normal mode.,Inconsistent
+The application should both store logs and avoid store logs.,Inconsistent
+The user shall be able to delete old records from the dashboard.,Complete
+"The software must delete old records unless shutdown, but always track user activity.",Inconsistent
+The application must generate a report after registration.,Complete
+The system must validate invoice before refresh the page.,Complete
+The system shall delete old records but also shall not send an email.,Inconsistent
+The system should be secure and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+"The software must refresh the page unless network failure, but always track user activity.",Inconsistent
+The system should be fast and easy to use.,Ambiguous
+The platform shall generate transaction details every 5 hours.,Complete
+The platform should update the database but ignore update the database in maintenance mode.,Inconsistent
+The system should be dynamic and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The platform shall generate error message every immediately.,Complete
+The system shall allow users to refresh the page within 10 seconds.,Complete
+The software shall display transaction details when timeout occurs.,Complete
+The system must validate error message before save the file.,Complete
+The system shall generate a report but also shall not track user activity.,Inconsistent
+The system shall export data but also shall not reset their password.,Inconsistent
+The system shall log the user out but also shall not refresh the page.,Inconsistent
+The system shall export data but also shall not generate a report.,Inconsistent
+The system should be reliable and easy to use.,Ambiguous
+"The system shall perform store logs only if registration, otherwise always update the database.",Inconsistent
+The system should be modern and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be intelligent and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be intelligent and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be flexible and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system should be transparent and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The system should be robust and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The system should be flexible and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be robust and easy to use.,Ambiguous
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be simple and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be transparent and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be flexible and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system should be seamless and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be dynamic and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The system should be responsive and easy to use.,Ambiguous
+The system should be attractive and easy to use.,Ambiguous
+The system should be transparent and easy to use.,Ambiguous
+The system should be user-friendly and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The system should be robust and easy to use.,Ambiguous
+The system should be flexible and easy to use.,Ambiguous
+The system should be efficient and easy to use.,Ambiguous
+The system should be intuitive and easy to use.,Ambiguous
+The system should be adaptive and easy to use.,Ambiguous
+The system should be comprehensive and easy to use.,Ambiguous
+The system should be robust and easy to use.,Ambiguous
+The system should be lightweight and easy to use.,Ambiguous
+The system should be secure and easy to use.,Ambiguous
+The system should be consistent and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be reliable and easy to use.,Ambiguous
+The system should be precise and easy to use.,Ambiguous
+The system should be modern and easy to use.,Ambiguous
+The system should be fast and easy to use.,Ambiguous
+The system should be scalable and easy to use.,Ambiguous
+The system should be powerful and easy to use.,Ambiguous
+The user shall track session before update.,Complete
+The software shall update message before update.,Complete
+The application shall process records after login.,Complete
+The system shall store email when network failure occurs.,Complete
+The user shall filter profile after registration.,Complete
+The software shall track database when timeout occurs.,Complete
+The user shall search file before export.,Complete
+The software shall search report after network failure.,Complete
+The software shall display database when timeout occurs.,Complete
+The system shall reset password when timeout occurs.,Complete
+The software shall delete error message before save.,Complete
+The user shall filter report before save.,Complete
+The system shall validate account after registration.,Complete
+The platform shall sort settings when timeout occurs.,Complete
+The user shall export settings after error occurs.,Complete
+The application shall record invoice before delete.,Complete
+The platform shall generate file before update.,Complete
+The software shall save file when network failure occurs.,Complete
+The system shall store session before save.,Complete
+The software shall track account when timeout occurs.,Complete
+The platform shall update user profile after timeout.,Complete
+The platform shall sync file after network failure.,Complete
+The application shall search message after registration.,Complete
+The application shall search invoice after error occurs.,Complete
+The user shall transform session when error occurs.,Complete
+The application shall refresh session after login.,Complete
+The user shall log notifications after system start.,Complete
+The software shall validate password after system start.,Complete
+The platform shall reset email when error occurs.,Complete
+The system shall transform transaction details after network failure.,Complete
+The platform shall export logs before save.,Complete
+The user shall retrieve logs after shutdown.,Complete
+The platform shall filter email when login occurs.,Complete
+The platform shall sort file after system start.,Complete
+The application shall process data after shutdown.,Complete
+The system shall transform file when network failure occurs.,Complete
+The platform shall record error message when error occurs.,Complete
+The platform shall sync session after error occurs.,Complete
+The user shall export credentials after registration.,Complete
+The system shall cache password after network failure.,Complete
+The software shall backup file before update.,Complete
+The platform shall backup logs after registration.,Complete
+The platform shall store session after system start.,Complete
+The platform shall track email after timeout.,Complete
+The system shall record message after timeout.,Complete
+The platform shall archive email before save.,Complete
+The application shall export logs after registration.,Complete
+The platform shall send message when login occurs.,Complete
+The system shall export transaction details when network failure occurs.,Complete
+The software shall backup report after shutdown.,Complete
+The platform shall delete records when network failure occurs.,Complete
+The user shall display file when error occurs.,Complete
+The software shall filter transaction details after login.,Complete
+The application shall save notifications before save.,Complete
+The system shall cache password after login.,Complete
+The application shall log invoice after logout.,Complete
+The application shall retrieve invoice before save.,Complete
+The platform shall update notifications before export.,Complete
+The user shall search account when network failure occurs.,Complete
+The user shall retrieve password after shutdown.,Complete
+The platform shall process database after registration.,Complete
+The software shall validate database when timeout occurs.,Complete
+The user shall reset email after shutdown.,Complete
+The software shall sort data when timeout occurs.,Complete
+The software shall generate logs before export.,Complete
+The application shall store activity log when error occurs.,Complete
+The system shall validate activity log after error occurs.,Complete
+The software shall sync notifications after shutdown.,Complete
+The user shall send user profile before delete.,Complete
+The system shall sync records after shutdown.,Complete
+The user shall cache user profile before export.,Complete
+The system shall track settings before delete.,Complete
+The system shall track session before update.,Complete
+The user shall update activity log after timeout.,Complete
+The system shall display database after timeout.,Complete
+The system shall refresh activity log after timeout.,Complete
+The system shall track records when timeout occurs.,Complete
+The software shall store account when timeout occurs.,Complete
+The system shall save account before export.,Complete
+The application shall track error message before save.,Complete
+The platform shall save email before update.,Complete
+The user shall record transaction details after registration.,Complete
+The application shall retrieve database before update.,Complete
+The platform shall log error message after registration.,Complete
+The software shall archive password after system start.,Complete
+The software shall cache transaction details before update.,Complete
+The platform shall record invoice when login occurs.,Complete
+The system shall sync data after system start.,Complete
+The user shall notify transaction details after timeout.,Complete
+The platform shall export password after error occurs.,Complete
+The application shall archive email after system start.,Complete
+The application shall validate activity log before save.,Complete
+The application shall log message before update.,Complete
+The software shall delete notifications after registration.,Complete
+The application shall send file when timeout occurs.,Complete
+The software shall save credentials after registration.,Complete
+The user shall cache report when timeout occurs.,Complete
+The application shall search session when network failure occurs.,Complete
+The application shall validate user profile after shutdown.,Complete
+The platform shall sync password before delete.,Complete
+The application shall validate report when network failure occurs.,Complete
+The platform shall update invoice after login.,Complete
+The software shall export file after registration.,Complete
+The platform shall sync activity log after login.,Complete
+The application shall archive email before update.,Complete
+The user shall store password after network failure.,Complete
+The application shall alert message after system start.,Complete
+The software shall archive activity log after timeout.,Complete
+The platform shall sync session after network failure.,Complete
+The user shall refresh settings after system start.,Complete
+The system shall backup password when error occurs.,Complete
+The user shall reset logs after login.,Complete
+The system shall update password after error occurs.,Complete
+The platform shall refresh credentials after system start.,Complete
+The software shall backup password after network failure.,Complete
+The application shall refresh file before save.,Complete
+The user shall validate account after logout.,Complete
+The software shall sort message before update.,Complete
+The system shall delete settings when timeout occurs.,Complete
+The application shall send message when login occurs.,Complete
+The software shall sort credentials when timeout occurs.,Complete
+The system shall send data after login.,Complete
+The software shall display session when login occurs.,Complete
+The system shall search user profile before delete.,Complete
+The system shall archive profile after error occurs.,Complete
+The system shall reset transaction details after login.,Complete
+The system shall archive user profile after shutdown.,Complete
+The platform shall validate account before update.,Complete
+The application shall alert activity log before delete.,Complete
+The platform shall transform message after timeout.,Complete
+The software shall save error message after shutdown.,Complete
+The system shall retrieve report when login occurs.,Complete
+The system shall display activity log before save.,Complete
+The module must validate error message but skip it under normal mode.,Inconsistent
+The application must display activity log and avoid generate at the same time.,Inconsistent
+The application must store user profile and avoid sort at the same time.,Inconsistent
+"The system shall backup data only when login occurs, otherwise always send.",Inconsistent
+The module must display password but skip it under normal mode.,Inconsistent
+The module must display data but skip it under normal mode.,Inconsistent
+The module must refresh user profile but skip it under normal mode.,Inconsistent
+"The system shall delete logs only after system start, otherwise always refresh.",Inconsistent
+"The system shall refresh database only after logout, otherwise always display.",Inconsistent
+The application must store transaction details and avoid archive at the same time.,Inconsistent
+"The system shall backup database only when timeout occurs, otherwise always process.",Inconsistent
+The module must archive records but skip it under normal mode.,Inconsistent
+The module must log profile but skip it under normal mode.,Inconsistent
+The application must sort activity log and avoid record at the same time.,Inconsistent
+The application must update transaction details and avoid generate at the same time.,Inconsistent
+The application must filter session and avoid update at the same time.,Inconsistent
+The application must transform settings and avoid cache at the same time.,Inconsistent
+"The system shall filter invoice only before update, otherwise always send.",Inconsistent
+The module must store settings but skip it under normal mode.,Inconsistent
+The application must filter transaction details and avoid process at the same time.,Inconsistent
+The application must backup email and avoid process at the same time.,Inconsistent
+The application must refresh records and avoid store at the same time.,Inconsistent
+"The system shall send records only when timeout occurs, otherwise always export.",Inconsistent
+The module must alert report but skip it under normal mode.,Inconsistent
+"The system shall refresh email only after login, otherwise always display.",Inconsistent
+The module must delete file but skip it under normal mode.,Inconsistent
+The module must reset logs but skip it under normal mode.,Inconsistent
+"The system shall cache credentials only when login occurs, otherwise always log.",Inconsistent
+"The system shall store activity log only before export, otherwise always notify.",Inconsistent
+The module must transform records but skip it under normal mode.,Inconsistent
+"The system shall filter session only after login, otherwise always generate.",Inconsistent
+"The system shall refresh settings only when login occurs, otherwise always update.",Inconsistent
+"The system shall retrieve user profile only before export, otherwise always sync.",Inconsistent
+The application must retrieve password and avoid delete at the same time.,Inconsistent
+The module must backup account but skip it under normal mode.,Inconsistent
+The module must save account but skip it under normal mode.,Inconsistent
+The application must update activity log and avoid retrieve at the same time.,Inconsistent
+The application must alert file and avoid retrieve at the same time.,Inconsistent
+"The system shall store user profile only when login occurs, otherwise always track.",Inconsistent
+The module must cache email but skip it under normal mode.,Inconsistent
+"The system shall process logs only before delete, otherwise always refresh.",Inconsistent
+The application must backup password and avoid retrieve at the same time.,Inconsistent
+The module must notify logs but skip it under normal mode.,Inconsistent
+The module must update records but skip it under normal mode.,Inconsistent
+The module must generate settings but skip it under normal mode.,Inconsistent
+"The system shall save records only after logout, otherwise always sort.",Inconsistent
+The module must archive password but skip it under normal mode.,Inconsistent
+The application must sync file and avoid generate at the same time.,Inconsistent
+The application must retrieve logs and avoid delete at the same time.,Inconsistent
+"The system shall archive password only before update, otherwise always notify.",Inconsistent
+"The system shall log password only after error occurs, otherwise always backup.",Inconsistent
+The module must cache password but skip it under normal mode.,Inconsistent
+The application must send user profile and avoid update at the same time.,Inconsistent
+"The system shall transform activity log only after registration, otherwise always notify.",Inconsistent
+"The system shall send settings only when timeout occurs, otherwise always backup.",Inconsistent
+The module must update message but skip it under normal mode.,Inconsistent
+"The system shall log settings only after registration, otherwise always sort.",Inconsistent
+The module must refresh invoice but skip it under normal mode.,Inconsistent
+The application must refresh settings and avoid validate at the same time.,Inconsistent
+The application must transform transaction details and avoid log at the same time.,Inconsistent
+The module must cache error message but skip it under normal mode.,Inconsistent
+"The system shall display credentials only after shutdown, otherwise always sort.",Inconsistent
+The module must display file but skip it under normal mode.,Inconsistent
+The application must update email and avoid store at the same time.,Inconsistent
+The module must cache error message but skip it under normal mode.,Inconsistent
+The module must sync notifications but skip it under normal mode.,Inconsistent
+The module must track invoice but skip it under normal mode.,Inconsistent
+"The system shall search user profile only before update, otherwise always search.",Inconsistent
+"The system shall generate profile only after shutdown, otherwise always reset.",Inconsistent
+The application must delete records and avoid process at the same time.,Inconsistent
+The module must validate message but skip it under normal mode.,Inconsistent
+The module must update error message but skip it under normal mode.,Inconsistent
+The module must generate account but skip it under normal mode.,Inconsistent
+The application must log data and avoid process at the same time.,Inconsistent
+The module must delete records but skip it under normal mode.,Inconsistent
+The application must track account and avoid log at the same time.,Inconsistent
+The application must retrieve credentials and avoid validate at the same time.,Inconsistent
+The module must delete user profile but skip it under normal mode.,Inconsistent
+The application must validate transaction details and avoid export at the same time.,Inconsistent
+The module must store file but skip it under normal mode.,Inconsistent
+"The system shall generate account only after system start, otherwise always track.",Inconsistent
+The application must record database and avoid archive at the same time.,Inconsistent
+"The system shall store database only after shutdown, otherwise always transform.",Inconsistent
+"The system shall display invoice only before save, otherwise always sync.",Inconsistent
+The application must send invoice and avoid search at the same time.,Inconsistent
+"The system shall update database only after shutdown, otherwise always backup.",Inconsistent
+The application must generate user profile and avoid record at the same time.,Inconsistent
+The module must log settings but skip it under normal mode.,Inconsistent
+The module must notify message but skip it under normal mode.,Inconsistent
+The module must archive notifications but skip it under normal mode.,Inconsistent
+The application must alert account and avoid record at the same time.,Inconsistent
+The application must log password and avoid transform at the same time.,Inconsistent
+The module must log credentials but skip it under normal mode.,Inconsistent
+"The system shall refresh data only when timeout occurs, otherwise always sort.",Inconsistent
+The module must delete credentials but skip it under normal mode.,Inconsistent
+"The system shall archive settings only when error occurs, otherwise always record.",Inconsistent
+The module must process account but skip it under normal mode.,Inconsistent
+"The system shall delete error message only after network failure, otherwise always store.",Inconsistent
+The application must validate message and avoid alert at the same time.,Inconsistent
+"The system shall search settings only after system start, otherwise always record.",Inconsistent
+The application must track notifications and avoid transform at the same time.,Inconsistent
+The application must generate profile and avoid sort at the same time.,Inconsistent
+The application must send user profile and avoid sort at the same time.,Inconsistent
+The application must transform session and avoid update at the same time.,Inconsistent
+The application must record settings and avoid update at the same time.,Inconsistent
+"The system shall send session only before save, otherwise always backup.",Inconsistent
+The application must reset logs and avoid delete at the same time.,Inconsistent
+The application must sync transaction details and avoid notify at the same time.,Inconsistent
+"The system shall delete email only before update, otherwise always log.",Inconsistent
+The application must display credentials and avoid display at the same time.,Inconsistent
+The module must generate password but skip it under normal mode.,Inconsistent
+The module must record password but skip it under normal mode.,Inconsistent
+The module must update password but skip it under normal mode.,Inconsistent
+The application must send activity log and avoid display at the same time.,Inconsistent
+"The system shall sync database only after shutdown, otherwise always filter.",Inconsistent
+The module must track email but skip it under normal mode.,Inconsistent
+The module must notify credentials but skip it under normal mode.,Inconsistent
+The module must backup user profile but skip it under normal mode.,Inconsistent
+The module must export notifications but skip it under normal mode.,Inconsistent
+"The system shall alert settings only when network failure occurs, otherwise always store.",Inconsistent
+The application must search error message and avoid sync at the same time.,Inconsistent
+"The system shall export credentials only before export, otherwise always save.",Inconsistent
+The module must generate message but skip it under normal mode.,Inconsistent
+The application must sort email and avoid reset at the same time.,Inconsistent
+"The system shall record error message only after network failure, otherwise always sync.",Inconsistent
+The application must save records and avoid notify at the same time.,Inconsistent
+"The system shall retrieve account only after shutdown, otherwise always cache.",Inconsistent
+"The system shall store account only after logout, otherwise always cache.",Inconsistent
+"The system shall log data only when error occurs, otherwise always filter.",Inconsistent
+The application must sync invoice and avoid filter at the same time.,Inconsistent
+The application must send notifications and avoid update at the same time.,Inconsistent
+"The system shall archive account only after shutdown, otherwise always archive.",Inconsistent
+The application must sync email and avoid validate at the same time.,Inconsistent
+The module must backup activity log but skip it under normal mode.,Inconsistent
