@@ -11,7 +11,7 @@ This project implements an ensemble machine learning system to predict the quali
 - Predicts the quality of new requirement sentences.
 
 ## Workflow
-1. Data Preprocessing: Tokenization, stopword removal, lemmatization, short-word filtering, TF-IDF vectorization.
+1. Data Preprocessing: Converts all characters to lowercase, removes all non-alphabetic characters, strips extra whitespaces from beginning and the end, TF-IDF vectorization.
 2. Model Training: Trains three base classifiers—SVM, Random Forest, and Gradient Boosting.
 3. Ensemble Training: Combines base models using stacking.
 4. Performance Evaluation: Reports F1-score improvement and detailed classification results.
